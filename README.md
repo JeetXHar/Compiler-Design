@@ -1,8 +1,9 @@
 # Compiler-Design
+<br>
 
-Here are different parsing techniques implementations for the following language:<br>
-E --> TE'
-E' --> +TE' | epsilon
-T --> FT'
-T' --> *FT' | epsilon
-F --> (E) | id
+<h1>Here are different parsing techniques implementations for the following language:</h1><br>
+E --> TE'<br>
+E' --> +TE' | epsilon <br>
+T --> FT' <br>
+T' --> *FT' | epsilon <br>
+F --> (E) | id <br>
